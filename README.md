@@ -23,12 +23,12 @@ Follow these steps to set up the project locally:
 
 1. **Clone the repository**:
    ```sh
-   git clone <REPOSITORY_URL>
+   git clone https://github.com/The-Reminiscent/reminiscent-web-frontend.git
    ```
 
 2. **Navigate to the project directory**:
    ```sh
-   cd <PROJECT_DIRECTORY>
+   cd reminiscent-web-frontend
    ```
 
 3. **Install dependencies**:
