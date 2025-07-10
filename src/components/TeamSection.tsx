@@ -1,28 +1,28 @@
 const TeamSection = () => {
   const teamMembers = [
     {
-      name: "Lead Developer",
-      role: "Full Stack Developer",
+      name: "Soumya Shaw",
+      role: "Lead Developer",
       description: "Transforming ideas into reality with expertise in full stack development, ensuring seamless integration of frontend and backend technologies.",
       image: "/soumya.jpeg"
     },
     {
-      name: "Frontend Developer",
-      role: "Frontend Developer",
-      description: "Specializing in creating responsive and interactive frontend experiences using React and modern frameworks.",
-      image: "/soumya.jpeg"
-    },
-    {
-      name: "Senior Developer",
+      name: "Sneha Chetani",
       role: "Full Stack Developer",
-      description: "Building robust applications with modern technologies and scalable architecture solutions.",
-      image: "/soumya.jpeg"
+      description: "Specializing in creating responsive and interactive frontend experiences using React and modern frameworks.",
+      image: "/sneha.jpeg"
     },
     {
-      name: "SEO Specialist",
-      role: "Digital Marketing",
+      name: "Vaishnavi Mall",
+      role: "Senior Developer",
+      description: "Building robust applications with modern technologies and scalable architecture solutions.",
+      image: "/vaishnavi.jpeg"
+    },
+    {
+      name: "Hardik Goyal",
+      role: "SEO Specialist",
       description: "Optimizing digital presence and driving organic growth through strategic SEO and content marketing.",
-      image: "/soumya.jpeg"
+      image: "/hardik.jpeg"
     }
   ];
 
